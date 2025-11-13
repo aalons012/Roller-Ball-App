@@ -12,6 +12,11 @@ import kotlin.math.abs
  * A constant representing the sensitivity threshold for detecting a shake gesture.
  * A higher value makes the shake detection less sensitive.
  */
+
+/**
+ * made by Andy Alonso
+ * created in 11/12/25
+ */
 const val SHAKE_THRESHOLD = 100
 
 /**
